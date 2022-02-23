@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
+  name: 'topan site',
   domain: 'https://www.notion.so/topanlee/hi-I-AM-Topan-8955793fecbe42dbb8daf095351f50a0',
-  author: 'Travis Fischer',
+  author: 'topan',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: ' ',
+  github: 'topanlee',
+  linkedin: ' ',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
