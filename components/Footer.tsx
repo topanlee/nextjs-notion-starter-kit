@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { FaTwitter, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaTwitter, FaGithub, Fafigma } from 'react-icons/fa'
 import { IoSunnyOutline, IoMoonSharp } from 'react-icons/io5'
 import * as config from 'lib/config'
 
@@ -65,15 +65,15 @@ export const Footer: React.FC<{
           </a>
         )}
 
-        {config.linkedin && (
+        {config.figma && (
           <a
-            className={styles.linkedin}
-            href={`https://www.linkedin.com/in/${config.linkedin}`}
-            title={`LinkedIn ${config.author}`}
+            className={styles.figma}
+            href={`https://www.figma.com/in/${config.figma}`}
+            title={`figma ${config.author}`}
             target='_blank'
             rel='noopener noreferrer'
           >
-            <FaLinkedin />
+            <Fafigma />
           </a>
         )}
       </div>
