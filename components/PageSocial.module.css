@@ -87,10 +87,10 @@
 }
 
 .figma .actionBgPane {
-  background: #0077b5;
+  background: #f55477;
 }
 .figma:hover {
-  border-color: #0077b5;
+  border-color: #f55477;
 }
 
 .github .actionBgPane {

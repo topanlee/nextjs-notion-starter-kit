@@ -68,7 +68,7 @@ export const Footer: React.FC<{
         {config.figma && (
           <a
             className={styles.figma}
-            href={`https://www.figma.com/in/${config.figma}`}
+            href={`https://www.figma.com/${config.figma}`}
             title={`figma ${config.author}`}
             target='_blank'
             rel='noopener noreferrer'
