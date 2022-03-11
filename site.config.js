@@ -17,8 +17,8 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: ' ',
-  github: 'topanlee',
+  twitter: '',
+  github: '',
   figma: '@topan',
 
   // default notion icon and cover images for site-wide consistency (optional)
